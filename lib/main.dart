@@ -83,7 +83,7 @@ class _MyAppState extends State<MyApp> {
             tooltip: 'Navigation menu',
             onPressed: null,
           ),
-          title: Text('FASAH'),
+          title: Text('FASAH APP'),
           actions: <Widget>[
             IconButton(
               icon: Icon(Icons.search),
